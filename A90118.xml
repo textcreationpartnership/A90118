@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Office of Publick Advice, newly set up in several places in and about London and Westminster, by authority. Because the life of all intercourse is quickness of return, and the same can hardly be had, except the things, about which the said intercourse is practised, ...</title>
+            <author>Office of Publick Advice (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90118</idno>
+            <idno type="STC">Wing O148</idno>
+            <idno type="STC">Thomason 669.f.20[59]</idno>
+            <idno type="EEBO-CITATION">99870622</idno>
+            <idno type="PROQUEST">99870622</idno>
+            <idno type="VID">163475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[59])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Office of Publick Advice, newly set up in several places in and about London and Westminster, by authority. Because the life of all intercourse is quickness of return, and the same can hardly be had, except the things, about which the said intercourse is practised, ...</title>
+                  <author>Office of Publick Advice (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb, dwelling in Thames-street over against Bainards Castle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Office of Publick Advice (London, England) --  Early works to 1800.</term>
+               <term>Advertising --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163475:1" rendition="simple:additions"/>
+            <head>The OFFICE of
+PUBLICK ADVICE,
+Newly ſet up in ſeveral places in and about
+London and Weſtminſter,
+BY A<g ref="char:V">Ʋ</g>THORITY.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecauſe the life of all Intercourſe is quickneſs of Return, and the ſame can hardly be had, except the things, about which the ſaid Intercourſe is practiſed, come to the knowledge of
+Men concerned therein, which hitherto hath been, in a manner, altogether wanting, the ſeveral occaſions of private Men, being for the moſt part unknown to others. Therefore
+the Undertakers of the Offices of <hi>Publick Advice</hi> have found out a new way, which every one that ſhall make a tryal of not being byaſſed, or any way intereſſed to the con<g ref="char:EOLhyphen"/>trary,
+will ſoon judge to be very advantagious to the Commonwealth, and to have fully attained the true means of quickening the ſaid intercourſe. The deſign therefore of the
+ſaid Undertakers, and the way how they intend to mannage the ſame, is as followeth.</p>
+            <p>The ſaid Undertakers have erected ſeveral Offices or Places, to any of which all perſons whatſoever may repair, there to Enter into the Regiſter Books of the ſaid Places reſpective<g ref="char:EOLhyphen"/>ly,
+the Occaſions they have to diſpoſe of any of the Things hereafter mentioned; which being thus Entred, the Undertakers will weekly put forth and publiſh a Book of Intelligence in Print,
+wherein all the particular Occaſions by them ſo Entred, as aforeſaid, ſhall be methodically ſet down, and ſo made known to all the Nation; which Book ſhall be publickly ſold every <hi>Tueſday</hi> morn<g ref="char:EOLhyphen"/>ing
+at every <hi>Stationers</hi> Shop; and by ſuch other hands, and at ſuch rates, as other Books of Intelligence are ordinarily ſold: And by this way great advantage will accrew to the Publick, and
+che<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fly to the Parties ſo Entring their occaſions; it being more likely, that the Things they are to diſpoſe of, being by this means generally made known to all, more Chapmen will be found for
+the ſame, than if they ſhould onely take ſuch blinde ways of Addreſſes heretofore made uſe of. Beſides, in this new way, Fees are onely taken of one of the two Parties concurring to a Bargain,
+and both are as well ſerved, as can be deſired of ſuch an Office: Whereas in the ways formerly uſed by others, both Parties are to pay Fees, and few, if any, come to be effectually ſerved in what
+they aimed at. The Undertakers will binde themſelves, after the Entring of ſuch Occaſions, to Print each Advice ſo Entred for Four weeks together in the ſaid Book, unleſs the Parties ſhall de<g ref="char:EOLhyphen"/>ſire
+a longer publiſhing; which, upon renewing of their Entring and Fees, ſhall be continued as long as they pleaſe.</p>
+            <list>
+               <item>To give
+notice
+<list>
+                     <item>The ſeveral Occaſions, about which the <g ref="char:V">Ʋ</g>ndertakers intend to give Intelligence in the ſaid Book, and the Fees which they take for the ſame, are cheifly theſe,
+<list>
+                           <item>Fees for Entring
+<hi>per</hi> Moneth.</item>
+                        </list>
+                     </item>
+                     <item>Of all ſuch Ships and Veſſels as are to go out, either from the Port of <hi>London,</hi> or any other Port in <hi>England, Scotland,</hi> or <hi>Ireland,</hi> with the time of their going forth,
+the place they lye at, the Port they are bound to, their Names, Burden, and Strength, the Names of the Maſters, <hi>&amp;c.</hi> As alſo of all ſuch Ships and Veſſels as are to be
+Sold or Lett to Fraight
+<list>
+                           <item>For Ships above 100
+Tuns, a penny per
+Tun; for Ships un<g ref="char:EOLhyphen"/>der
+100 Tuns, Six
+ſhillings.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Of all ſuch Tacklings, Riggings, and Ship Furnitures whatſoever, as are to be ſold.</hi> If under the value of Thirty pounds, Five ſhillings; if above the value of Thirty pounds, the ſame Fee
+of Five ſhillings, and one penny <hi>per</hi> pound for the overplus.</item>
+                  </list>
+               </item>
+               <item>Of all ſuch Maſters or Captains, Pilots, Maſters-Mates, Purſers, Boat-Swains, Gunners, Carpenters, Shipwrights, Surgeons, <hi>&amp;c:</hi> that want Imployments
+<list>
+                     <item>Six ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of any other Seamen, of what rank ſoever, that deſire to be employed
+<list>
+                     <item>Three ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of all Stage Coaches, Waggons, Carriers, or Horſes, to be furniſhed at certain places, at conſtant times, to go into any part of the Commonwealth: The days of their
+going; the places they <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye at; the rates they take, <hi>&amp;c.</hi>
+                  <list>
+                     <item>Eight ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of all Hackney-Coaches, Waggons, Carriers, or Horſes to be Lett upon any Journeys into any part of the Commonwealth; the places they lye at, and the rates they
+take, <hi>&amp;c.</hi>
+                  <list>
+                     <item>Six ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Lands, Houſes, Annuities, in City or Country, to be Sold, Morgaged or Purchaſed:
+<list>
+                     <item>A penny <hi>per</hi> pound of the value.</item>
+                  </list>
+               </item>
+               <item>Of Houſes to be Let by Leaſe or Yearly Rent in the City, or Houſes and Lands in any other part of the Commonwealth, which ſhall be under the yearly Rent of Thirty pounds,
+<list>
+                     <item>Five ſhillings.
+If above the Rent of Thirty pounds, the ſame Fee of Five ſhillings, adding a penny <hi>per</hi> pound for the overplus of the ſaid Rent.</item>
+                  </list>
+               </item>
+               <item>Of all Lodgings to be Lett in the City, or near the City, either furniſhed or unfurniſhed; Perſons to be Boarded, or not, by the Year, Moneth or Week; Ware-Houſes,
+Cellars, <hi>&amp;c.</hi> to be Lett
+<list>
+                     <item>Five ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Money to be put or taken at Intereſt: Of Money to be lent or borrowed upon Plate, Jewels, or other ſufficient Pawn. Of any Houſhold-ſtuff, Clothes, or other moveable Goods,
+to be ſold or bought at the ſecond hand. Of Coaches, or any Furniture belonging to the ſame. Horſes or Cattle of all ſorts to be ſold.
+<list>
+                     <item>If under the value of Thirty pounds, Five ſhillings;
+if above the value of Thirty pounds, the ſame Fee of Five ſhillings and one penny <hi>per</hi> pound for the overplus.</item>
+                  </list>
+               </item>
+               <item>Of any Wares, Merchandiſes, or other Commodities whatſoever, to be ſold or bought, either by Whole-Sale or in Retail.
+<list>
+                     <item>If under the value of Thirty pounds, Five ſhillings; if above
+the value of Thirty pounds, the ſame Fee of Five ſhillings, and one penny <hi>per</hi> pound for the overplus.</item>
+                  </list>
+               </item>
+               <item>Of any Goods, Horſes, or any Beaſts, or Cattle ſtoln or ſtrayed
+<list>
+                     <item>Six ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of any that would be employed as Agents or Meſſengers about buſineſſes, to any part of the Commonwealth, or beyond Seas; or as Overſeers and Surveyors of any
+Lands or Eſtates in <hi>Ireland,</hi> or other parts of the Commonwealth; or as Interpreters or Agents for Strangers, that are ignorant of the Language or Affairs of this Nation
+<list>
+                     <item>Five ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Profeſſors of Sciences, Teachers of <hi>Hebrew, Greek Latin, Engliſh, French, Italian, Dutch,</hi> or any other Languages. Of Tutors or Governors for Noblemen or Gen<g ref="char:EOLhyphen"/>tlemens
+Children: Of School-Miſters, or School-Maſtreſſes of the better ſort: Of Writing-Maſters, Dancing-Maſters, Singing-Maſters, Lute or Guittare Maſters,
+<hi>&amp;c.</hi> Of Stewards, Bailiffs of Manors, Secretaries, Gentlemen-Uſhers, <hi>&amp;c.</hi> Of Book-keepers, Caſh-keepers to Merchants, or others. Of Clerks of Counſellors,
+Juſtices of Peace, Attorneys, Solicitors, Scriveners, Brewers, Woodmongers, <hi>&amp;c.</hi>
+                  <list>
+                     <item>Ten ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Petti-School-Maſters and School Miſtreſſes. Of Serving men or Serving-women of all ſorts and degrees; Journeymen, Workmen, <hi>&amp;c.</hi> Of all Profeſſions whatſoever
+<list>
+                     <item>Four ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Nurſe-keepers and Nurſes, dry and wet, in Houſe or abroad, in City or Countrey
+<list>
+                     <item>Four ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Apprentices to be bound of any Profeſſion or Calling.
+<list>
+                     <item>Six ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Servants or Apprentices run from their Maſters
+<list>
+                     <item>Eight ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Phyſitians and others, that have any rare and approved Receipt or Medicine for any Pain or Diſeaſe: Of ſuch as having ſuch Pains, look for any one to help them: Of
+ſuch as will make known any good and lawful Claim to any Real or Perſonal Eſtate
+<list>
+                     <item>Ten ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Books Printed or intended to be Printed
+<list>
+                     <item>Five ſhillings.</item>
+                  </list>
+               </item>
+               <item>Of Wood and Timber to be Sold.
+<list>
+                     <item>If under the value of Thirty pounds, Five ſhillings; if above the value of Thirty pounds, the ſame Fee of Five ſhillings, and one penny <hi>per</hi> pound for
+the overplus.</item>
+                  </list>
+               </item>
+               <item>And generally of all ſorts of other Occaſions: For which the Fees ſhall be proportionable, either to the aboveſaid Fees, or to the nature of the thing it ſelf; which conſidering the great
+Charges and Trouble the Undertakers are to be at in publiſhing Four weeks together each Advice, ought not to be thought too high.</item>
+            </list>
+            <p>For the better Eaſe and Accommodation of the People, the Undertakers have been willing to be at the charge of Erecting and Maintaining ſeveral Offices, Eight in number, in all the Parts and
+Quarters of the City and Suburbs, that ſo no perſons may be put to any trouble for the ſerving of their reſpective Occaſions, if they do but obſerve the times ſet down for each Office to be open.
+The places are theſe following.</p>
+            <p>In <hi>Eaſt-Smithfield</hi> near St. <hi>Katherines,</hi> by the Waterſide, at one Mr. <hi>Greens</hi> a Chirurgion, at the ſign of the <hi>Hamburgh</hi>-Arms, over againſt the ſign of the Red Lione</p>
+            <p>In <hi>Sherburn</hi>-Lane's end, next to <hi>Lumbard</hi>-Street, at one Mr. <hi>Gaſſe</hi>'s, over againſt the White Hart.</p>
+            <p>In <hi>Barbican,</hi> at one Mr <hi>Peryam</hi>'s, over againſt the ſign of the George, next door to the ſign of the Pomegranate.</p>
+            <p>In <hi>Fuller</hi>'s Rents in <hi>Holborn,</hi> at one Mr. <hi>Tho. Slaynets,</hi> at the three Arrows</p>
+            <p>In <hi>White-Friers,</hi> at the Entry, next to the Green Dragon Tavern, at one Mr. <hi>Gee</hi>'s, over againſt the ſign of the Black Bull-head.</p>
+            <p>In the <hi>Strand,</hi> at one Miſtreſs <hi>Salisburies,</hi> at the ſign of the White Swan with two Necks, over againſt the ſign of the Croſs Keys, by <hi>York</hi> Houſe.</p>
+            <p>In <hi>Weſtminſter,</hi> in Kings Street, at one Mr. <hi>Hudſons,</hi> at the ſign of the Half-Moon, between the Roſe and Crown, and the Black Bell.</p>
+            <p>In <hi>Southwark,</hi> at Mr. <hi>Newtons,</hi> at the ſign of the Queen's-Head Inn, on St. <hi>Margarets</hi> Hill.</p>
+            <p>Such as ſhall have Occaſion, may repair to any of the ſaid place; next to their own Habitations upon the days following, <hi>viz.</hi>
+            </p>
+            <p>To the Offices of <hi>Eaſt-Smithfield</hi> and <hi>Holborn,</hi> every Wedneſday and Friday in the Morning, from Eight to Eleven a Clock.</p>
+            <p>To the Offices of <hi>Sherburn</hi>-Lane and <hi>White Friers,</hi> upon the ſame days, <hi>viz.</hi> From Twelve at Noon to Four in the Afternoon in <hi>Sherburn</hi>-Lane and from Two to Five in the Afternoon in
+<hi>White-Friers.</hi>
+            </p>
+            <p>To the Offices of <hi>Southwark</hi> and the <hi>Strand,</hi> upon every Thurſday and Saturday in the Morning from Eight to Eleven a Clock.</p>
+            <p>To the Offices of <hi>Barbican</hi> and <hi>Weſtminſter,</hi> upon the ſame days in the Afternoon, from Two to Five a Clock.</p>
+            <p>The Undertakers intend, God willing, to begin to put forth the ſaid Printed weekly Books upon Tueſday, the 26 day of <hi>May,</hi> 1657. And in the mean while, ſuch as will, may from this 14 day
+of <hi>May,</hi> and ſo forward, bring in their Notes to the Offices to be Entred.</p>
+            <p>The Parties that ſhall repair to the ſaid Offices for any purpoſe, are deſired, for better order ſake, to bring their deſires in writing, if poſſible, and their Notes being Entred, they ſhall be
+ſubſcribed and returned to them by the Clerk of the Office, for the greater Security of thoſe that bring the ſaid Notes. And withal they are deſired. That in caſe the Commodities they have to diſ<g ref="char:EOLhyphen"/>poſe
+of, ſhall be diſpoſed of afore the end of the Four weeks, they would be pleaſed to give or ſend notice of it to the ſaid Office, where their Notes have been Entred. And for avoiding any
+abuſe therein, they are deſired to ſend back the Notes ſo ſubſcribed, as a token to the Clerk of the ſaid Office. They are further deſired to ſpecifie in their ſeveral Notes, the price and value of their
+ſeveral Occaſions, with the other Particulars concerning them, according to the Premiſes.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Newcomb,</hi> dwelling in <hi>Thames-ſtreet</hi> over againſt <hi>Bainards</hi> Caſtle. 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
